@@ -1,0 +1,35 @@
+.wrapper {
+    width: 800px;
+    height: 500px;
+    background: palegoldenrod;
+
+}
+h1 {
+   text-align: center;
+}
+.line {
+text-decoration: line-through;
+}
+
+.form {
+    display: flex;
+    justify-content: center;
+    
+
+}
+.input {
+    width: 400px;
+    height: 20px;
+    margin-right: 5px;
+} 
+.btn {
+    background: teal;
+}
+
+
+
+
+
+
+
+
